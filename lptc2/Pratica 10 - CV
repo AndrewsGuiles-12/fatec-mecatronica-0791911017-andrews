@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8"/>
+        <title>Meu Currículo</title>
+    </head>
+    <body>
+        <!-- Nome -->
+        <h1>Andrews Guiles J. Silva</h1>
+        <!-- Texto de introdução -->
+        <h2>Sobre mim</h2>
+        <p>Olá sou Andrews, estou sempre interessado em aprender novas dinamicas de trabalho, tanto individual, como em grupo, sempre visando o crescimento empresarial.</p>
+        <!-- Experiência Proficional -->
+        <h2>Experiência Proficional</h2>
+        <p>Menor Aprendiz Toyota do Brasil, planta SBC.</p>
+        <!-- Formação -->
+        <h2>Formação</h2>
+        <p>Administração de empresas e Logistica (Senai SBC)</p>
+        <p>Tecnologo em Mecatronica Industrial, em andamento (Fatec)</p>
+        <p>Ingles - Segundo modulo concluido (Wizard)</p>
+        <p>AutoCAD 3D MAX (DigiCAD)</p>
+        <p>Pacote Office Avançado</p>
+        <!-- Habilidades e Competencias -->
+        <h2>Habilidades e Competencias</h2>
+        <p>Alto desenvolvimento em informatica</p>
+        <p>Bom rendimento e desempenho nas tecnicas de trabalho</p>
+        <p>Rapido para aprendizagem de novos temas</p>
+        <!-- Informações Adicinais -->
+        <h2>Informações Adicionais</h2>
+        <p>Github: https://github.com/AndrewsGuiles-12/fatec-mecatronica-0791911017-andrews/tree/main/ltpc2</p>
+
+    </body>
+</html>
